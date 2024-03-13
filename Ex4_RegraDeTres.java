@@ -25,7 +25,8 @@ public class Ex4_RegraDeTres {
         resultado = (valor2 * valor3) / valor1;
 
         System.out.printf("O resultado da regra de tres eh: %.2f", resultado);
-
+        
+        input.close();
 
     }
 
