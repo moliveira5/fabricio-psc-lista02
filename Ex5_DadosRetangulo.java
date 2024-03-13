@@ -38,6 +38,8 @@ public class Ex5_DadosRetangulo {
         System.out.printf("Perimetro:\t %.2f \n", Perimetro(ladoMaior, ladoMenor));
         System.out.printf("Diagonal:\t %.2f \n", Diagonal(ladoMaior, ladoMenor));
 
+        input.close();
+
     }
 
 }
