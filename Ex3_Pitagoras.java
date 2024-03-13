@@ -23,6 +23,7 @@ public class Ex3_Pitagoras {
 
         System.out.printf("O calculo de Pitagoras para esse valores eh: %.2f", Pitagoras(a,b));
 
+        input.close();
     }
 
 }
