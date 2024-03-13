@@ -30,6 +30,7 @@ public class Ex2_EtanolGasolina {
         else 
             System.out.println("Você deve abastecer com Gasolina");
     
+        input.close();
     }
 
 }
